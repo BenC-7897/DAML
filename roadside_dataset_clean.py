@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 24 08:22:57 2024
-@author: bencr
-"""
 import os
 import pandas as pd
 
