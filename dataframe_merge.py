@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 11 13:03:41 2024
-@author: bencr
-"""
 import pandas as pd
 import os
 os.chdir('C:/Users/bencr/Downloads/Dataset_1')
